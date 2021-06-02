@@ -1,2 +1,2 @@
-# ML-unsupervised-algorithms
-Some of the unsupervised algorithms implementation
+# ML-Unsupervised-Algorithms
+Examples of unsupervised algorithms implementation used in machine learning.
