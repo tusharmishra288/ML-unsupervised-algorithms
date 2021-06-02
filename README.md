@@ -1,2 +1,2 @@
 # ML Unsupervised Algorithms
-Examples of unsupervised algorithms implementation used in machine learning.
+Examples of unsupervised algorithms used in machine learning.
